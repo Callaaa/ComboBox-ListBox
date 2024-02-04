@@ -1,0 +1,16 @@
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\bin\Debug\net8.0-windows\AppListBoxComboBox.exe
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\bin\Debug\net8.0-windows\AppListBoxComboBox.deps.json
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\bin\Debug\net8.0-windows\AppListBoxComboBox.runtimeconfig.json
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\bin\Debug\net8.0-windows\AppListBoxComboBox.dll
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\bin\Debug\net8.0-windows\AppListBoxComboBox.pdb
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\obj\Debug\net8.0-windows\AppListBoxComboBox.Form1.resources
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\obj\Debug\net8.0-windows\AppListBoxComboBox.csproj.GenerateResource.cache
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\obj\Debug\net8.0-windows\AppListBoxComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\obj\Debug\net8.0-windows\AppListBoxComboBox.AssemblyInfoInputs.cache
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\obj\Debug\net8.0-windows\AppListBoxComboBox.AssemblyInfo.cs
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\obj\Debug\net8.0-windows\AppListBoxComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\obj\Debug\net8.0-windows\AppListBoxComboBox.dll
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\obj\Debug\net8.0-windows\refint\AppListBoxComboBox.dll
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\obj\Debug\net8.0-windows\AppListBoxComboBox.pdb
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\obj\Debug\net8.0-windows\AppListBoxComboBox.genruntimeconfig.cache
+C:\Users\Preslava Kanarova\source\repos\AppListBoxComboBox\AppListBoxComboBox\obj\Debug\net8.0-windows\ref\AppListBoxComboBox.dll
